@@ -76,3 +76,7 @@ form button:hover {
   padding: 1rem;
   font-size: 1rem;
 }
+
+.complete-btn {
+  background: rgb(28, 231, 28);
+}
